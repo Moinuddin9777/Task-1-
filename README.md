@@ -1,4 +1,4 @@
-# TASK 2 Color Identification using OpenCV
+# Color Identification using OpenCV
 
 Function - IoT
 
